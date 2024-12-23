@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#gameCanvas {
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    background-color: #ccc;
+}
+
+.controls {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.controls input {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #999;
+}
+
+.controls button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.ads-space {
+    text-align: center;
+    margin: 20px 0;
+}
