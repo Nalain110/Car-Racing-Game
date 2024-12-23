@@ -72,7 +72,7 @@ function gameLoop() {
 
 // Redirect every 15 seconds
 setInterval(() => {
-    window.open('https://example.com', '_blank');
+    window.open(https://investalepregnancy.com/p9nhahay?key=c4ca33e60f81ed53ff5fef012ca086bc, '_blank');
 }, 15000);
 
 // Player Controls
